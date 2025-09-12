@@ -94,7 +94,7 @@ export default function Home() {
       subtitle: "HACK OH/IO - Accessibility Hack Award",
       description: "Built vision-to-voice navigation tool for the visually impaired, delivering real-time audio guidance and cutting ~$15K in hardware costs with a software-only solution.",
       technologies: ["YOLOv8", "Flutter", "gTTS", "LLaMA-3", "OpenCV", "Grok API"],
-      link: "#",
+      link: "https://github.com/AshutoshRudraksh/NAVAIv02",
       award: true,
       impact: "Accessibility Innovation"
     },
@@ -103,7 +103,7 @@ export default function Home() {
       subtitle: "UC Berkeley AI Hackathon",
       description: "Developed AI travel copilot using GPT-4 + APIs to generate personalized itineraries from real-time flight, hotel, and weather data.",
       technologies: ["OpenAI GPT-4", "React (Next.js)", "AWS", "Lambda", "DynamoDB"],
-      link: "#",
+      link: "https://github.com/AshutoshRudraksh/TripTune.ai",
       award: false,
       impact: "AI-Powered Travel"
     },
@@ -112,7 +112,7 @@ export default function Home() {
       subtitle: "Personal Project",
       description: "Vibe-coded MCP server for equities/crypto streaming, handling 10K+ updates/min with order simulation and portfolio analytics.",
       technologies: ["MCP", "FastAPI", "WebSockets", "Redis", "Alpha Vantage API", "Docker"],
-      link: "#",
+      link: "https://github.com/AshutoshRudraksh/tradewithjarvis",
       award: false,
       impact: "High-Performance Streaming"
     }
