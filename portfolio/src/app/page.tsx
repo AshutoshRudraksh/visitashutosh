@@ -134,7 +134,7 @@ export default function Home() {
     {
       title: "Cloud & DevOps",
       icon: Cloud,
-      skills: ["AWS (SageMaker, Lambda, Bedrock)", "GCP", "Docker", "Kubernetes"],
+      skills: ["AWS (SageMaker, Lambda, Bedrock)", "GCP", "Terraform", "Airflow", "Docker", "Kubernetes"],
       color: "from-purple-500 to-violet-500"
     },
     {
