@@ -180,7 +180,7 @@ export default function Home() {
           <div className="text-center">
             <div className="mb-6 inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-6 py-3 border border-white/20">
               <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
-              <span className="text-green-300 text-sm font-medium">Available for opportunities</span>
+              <span className="text-green-300 text-sm font-medium">Open for opportunities</span>
             </div>
             
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
@@ -188,11 +188,11 @@ export default function Home() {
             </h1>
             
             <h2 className="text-2xl md:text-3xl text-gray-300 mb-8 font-medium">
-              AI/ML & Full-Stack Software Engineer
+              Software Engineer
             </h2>
             
             <p className="text-lg text-gray-400 mb-12 max-w-4xl mx-auto leading-relaxed">
-              Building scalable AI systems and innovative solutions that drive real business impact. 
+              Experience in building large-scale micro-services and AI systems, delivered customer-facing product solutions that drive real business impact. 
               <span className="text-white font-semibold"> Saved $250K+ annually through automation</span>, 
               handled <span className="text-white font-semibold">2M+ transactions/month with 99.99% uptime</span>, 
               and <span className="text-white font-semibold">generated $120K+ in revenue</span> through data-driven innovation.
