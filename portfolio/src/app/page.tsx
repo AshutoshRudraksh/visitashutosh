@@ -122,7 +122,7 @@ export default function Home() {
     {
       title: "Languages",
       icon: Code,
-      skills: ["Python", "Java", "JavaScript (ES5/ES6+)", "TypeScript"],
+      skills: ["Python", "Java", "Bash", "JavaScript (ES5/ES6+)", "TypeScript"],
       color: "from-blue-500 to-cyan-500"
     },
     {
@@ -146,7 +146,7 @@ export default function Home() {
     {
       title: "AI/LLM Tools",
       icon: Brain,
-      skills: ["Cursor IDE", "OpenRouter", "OpenAI", "Hugging Face", "LangChain", "MCP", "n8n"],
+      skills: ["Claude SDK", "Agentic CLI", "OpenRouter", "RAGs", "OpenAI", "Hugging Face", "LangChain", "MCP", "n8n"],
       color: "from-pink-500 to-rose-500"
     }
   ];
