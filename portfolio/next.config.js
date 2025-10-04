@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
+  outputFileTracingRoot: '/Users/stacbot/Desktop/visitashutosh/portfolio',
   images: {
     domains: ['images.unsplash.com'],
   },

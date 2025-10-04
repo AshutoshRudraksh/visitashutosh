@@ -192,8 +192,8 @@ export default function Home() {
             </h2>
             
             <p className="text-lg text-gray-400 mb-12 max-w-4xl mx-auto leading-relaxed">
-              Experience in building <span className="text-white font-semibold">large-scale infrastructures, <span className="text-white font-semibold">backend microservice architectures, and <span className="text-white font-semibold">AI systems. Delivered customer-facing product solutions that drive <span className="text-white font-semibold">real business impact. 
-              <span className="text-white font-semibold"> Saved $250K+ annually through automation</span>, 
+              Experience in building <span className="text-white font-semibold">large-scale infrastructures</span>, <span className="text-white font-semibold">backend microservice architectures</span>, and <span className="text-white font-semibold">AI systems</span>. Delivered customer-facing product solutions that drive <span className="text-white font-semibold">real business impact</span>. 
+              <span className="text-white font-semibold">Saved $250K+ annually through automation</span>, 
               handled <span className="text-white font-semibold">2M+ transactions/month with 99.99% uptime</span>, and <span className="text-white font-semibold">generated $120K+ in revenue</span> through data-driven innovation.
             </p>
             
