@@ -223,7 +223,7 @@ export default function Home() {
                 Get In Touch
               </a>
               <a 
-                href="/resume.pdf" 
+                href="https://drive.google.com/drive/folders/1Tju4piy9ijXsVP7CFcuGqZkNl5FVQzE_?dmr=1&ec=wgc-drive-globalnav-goto" 
                 className="inline-flex items-center gap-2 bg-white/10 text-white font-medium py-3 px-8 rounded-full hover:bg-white/20 transition-all duration-300 backdrop-blur-sm border border-white/20 hover:scale-105"
               >
                 <Download className="h-5 w-5" />
