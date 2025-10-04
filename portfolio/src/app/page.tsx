@@ -223,7 +223,7 @@ export default function Home() {
                 Get In Touch
               </a>
               <a 
-                href="https://drive.google.com/drive/folders/1Tju4piy9ijXsVP7CFcuGqZkNl5FVQzE_?dmr=1&ec=wgc-drive-globalnav-goto" 
+                href="/attached_assets/Ashutosh_Rudraksh_Resume.pdf" 
                 className="inline-flex items-center gap-2 bg-white/10 text-white font-medium py-3 px-8 rounded-full hover:bg-white/20 transition-all duration-300 backdrop-blur-sm border border-white/20 hover:scale-105"
               >
                 <Download className="h-5 w-5" />
@@ -515,7 +515,7 @@ export default function Home() {
                     <span>LinkedIn Profile</span>
                     <ExternalLink className="h-4 w-4 ml-auto" />
                   </a>
-                  <a href="/resume.pdf" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors duration-200">
+                  <a href="/attached_assets/Ashutosh_Rudraksh_Resume.pdf" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors duration-200">
                     <Download className="h-5 w-5 text-purple-400" />
                     <span>Download Resume</span>
                     <ExternalLink className="h-4 w-4 ml-auto" />
